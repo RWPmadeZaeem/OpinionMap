@@ -1,0 +1,46 @@
+{
+  "node": {
+    "363cf9322b7dd32767a3ee324d798ee6efe5f250": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C786%5C%5CDesktop%5C%5Cvoting%5C%5Cclient%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22createTopic%22%2C%22%24%24ACTION_0%22%2C%22submitComment%22%5D%5D%5D&__client_imported__=true!",
+        "app/[topic]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C786%5C%5CDesktop%5C%5Cvoting%5C%5Cclient%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22createTopic%22%2C%22%24%24ACTION_0%22%2C%22submitComment%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/[topic]/page": "action-browser"
+      }
+    },
+    "85f96c2d722a8fab2fd2b8c32e168473c0d66829": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C786%5C%5CDesktop%5C%5Cvoting%5C%5Cclient%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22createTopic%22%2C%22%24%24ACTION_0%22%2C%22submitComment%22%5D%5D%5D&__client_imported__=true!",
+        "app/[topic]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C786%5C%5CDesktop%5C%5Cvoting%5C%5Cclient%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22createTopic%22%2C%22%24%24ACTION_0%22%2C%22submitComment%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/[topic]/page": "action-browser"
+      }
+    },
+    "8da8c1980bb8d0e44aeb493d691c5f516126c0a5": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C786%5C%5CDesktop%5C%5Cvoting%5C%5Cclient%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22createTopic%22%2C%22%24%24ACTION_0%22%2C%22submitComment%22%5D%5D%5D&__client_imported__=true!",
+        "app/[topic]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C786%5C%5CDesktop%5C%5Cvoting%5C%5Cclient%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22createTopic%22%2C%22%24%24ACTION_0%22%2C%22submitComment%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/[topic]/page": "action-browser"
+      }
+    },
+    "e4c1ea589b110babbbf28c6d6cdb6f07ba865f33": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C786%5C%5CDesktop%5C%5Cvoting%5C%5Cclient%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22createTopic%22%2C%22%24%24ACTION_0%22%2C%22submitComment%22%5D%5D%5D&__client_imported__=true!",
+        "app/[topic]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C786%5C%5CDesktop%5C%5Cvoting%5C%5Cclient%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22createTopic%22%2C%22%24%24ACTION_0%22%2C%22submitComment%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/[topic]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "eIqyjqa1Av/ZlgGNzf89bNjjoNbTAXqluj+IQhR3BjU="
+}
